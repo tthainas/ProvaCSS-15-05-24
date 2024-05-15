@@ -1,0 +1,27 @@
+.cards
+{    
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+.card1, .card2, .card3
+{
+    border: 3px solid ;
+    width: 300px;
+    height: 400px;
+}
+.card1
+{
+    background-image: url(../imagens/filme1.webp);
+    background-size: cover;
+}
+.card2
+{
+    background-image: url(../imagens/riley.jpg);
+    background-size: cover;
+}
+.card3
+{
+    background-image: url(../imagens/filme2.avif);
+    background-size:cover;
+}

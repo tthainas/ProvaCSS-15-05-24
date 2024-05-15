@@ -1,0 +1,14 @@
+footer
+{
+    background-color: #87CEFA;
+    text-align: center;
+    padding: 2rem;
+}
+.botao
+{
+    background-color: #F0F8FF;
+    border: none;
+    color: black;
+    font-size: 18px;
+    width: 100%;
+}
